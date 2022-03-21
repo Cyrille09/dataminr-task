@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.form-group {
+  margin-bottom: 1rem;
+}
+.card {
+  background: rgb(29, 25, 25);
+}
+.labelContent {
+  padding-left: 15px;
+}
+.labelContentValue {
+  padding-right: 40px;
+}
+.searchIcon {
+  margin-left: 20px;
+  margin-top: 5px;
+}
+.rightAlign {
+  text-align: right;
+}
